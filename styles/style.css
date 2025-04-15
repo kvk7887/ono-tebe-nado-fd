@@ -299,10 +299,6 @@ body {
   justify-self: center;
 }
 
-.footer__menu-link {
-
-}
-
 .footer__menu-link_active {
   border-width: 0;
   text-decoration: none;
